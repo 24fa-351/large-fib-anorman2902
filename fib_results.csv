@@ -1,0 +1,71 @@
+FIBONACCI INDEX,TYPE,WIDTH,RESULT,REAL TIME,USER TIME,SYS TIME,METHOD
+10,short,16,34,0.00,0.00,0.00,iterative
+20,short,16,4181,0.00,0.00,0.00,iterative
+30,short,16,514229,0.00,0.00,0.00,iterative
+40,short,16,63245986,0.00,0.00,0.00,iterative
+50,short,16,7778742049,0.00,0.00,0.00,iterative
+60,short,16,956722026041,0.00,0.00,0.00,iterative
+70,short,16,117669030460994,0.00,0.00,0.00,iterative
+80,short,16,14472334024676221,0.00,0.00,0.00,iterative
+90,short,16,1779979416004714189,0.00,0.00,0.00,iterative
+100,short,16,OVERFLOW -2437933049959450366,0.00,0.00,0.00,iterative
+10,short,16,34,0.00,0.00,0.00,recursive
+20,short,16,4181,0.00,0.00,0.00,recursive
+30,short,16,514229,0.00,0.00,0.00,recursive
+40,short,16,63245986,0.37,0.37,0.00,recursive
+10,int,32,34,0.00,0.00,0.00,iterative
+20,int,32,4181,0.00,0.00,0.00,iterative
+30,int,32,514229,0.00,0.00,0.00,iterative
+40,int,32,63245986,0.00,0.00,0.00,iterative
+50,int,32,7778742049,0.00,0.00,0.00,iterative
+60,int,32,956722026041,0.00,0.00,0.00,iterative
+70,int,32,117669030460994,0.00,0.00,0.00,iterative
+80,int,32,14472334024676221,0.00,0.00,0.00,iterative
+90,int,32,1779979416004714189,0.00,0.00,0.00,iterative
+100,int,32,OVERFLOW -2437933049959450366,0.00,0.00,0.00,iterative
+10,int,32,34,0.00,0.00,0.00,recursive
+20,int,32,4181,0.00,0.00,0.00,recursive
+30,int,32,514229,0.00,0.00,0.00,recursive
+40,int,32,63245986,0.38,0.37,0.00,recursive
+10,long,64,34,0.00,0.00,0.00,iterative
+20,long,64,4181,0.00,0.00,0.00,iterative
+30,long,64,514229,0.00,0.00,0.00,iterative
+40,long,64,63245986,0.00,0.00,0.00,iterative
+50,long,64,7778742049,0.00,0.00,0.00,iterative
+60,long,64,956722026041,0.00,0.00,0.00,iterative
+70,long,64,117669030460994,0.00,0.00,0.00,iterative
+80,long,64,14472334024676221,0.00,0.00,0.00,iterative
+90,long,64,1779979416004714189,0.00,0.00,0.00,iterative
+100,long,64,OVERFLOW -2437933049959450366,0.00,0.00,0.00,iterative
+10,long,64,34,0.00,0.00,0.00,recursive
+20,long,64,4181,0.00,0.00,0.00,recursive
+30,long,64,514229,0.00,0.00,0.00,recursive
+40,long,64,63245986,0.37,0.37,0.00,recursive
+10,long_long,64,34,0.00,0.00,0.00,iterative
+20,long_long,64,4181,0.00,0.00,0.00,iterative
+30,long_long,64,514229,0.00,0.00,0.00,iterative
+40,long_long,64,63245986,0.00,0.00,0.00,iterative
+50,long_long,64,7778742049,0.00,0.00,0.00,iterative
+60,long_long,64,956722026041,0.00,0.00,0.00,iterative
+70,long_long,64,117669030460994,0.00,0.00,0.00,iterative
+80,long_long,64,14472334024676221,0.00,0.00,0.00,iterative
+90,long_long,64,1779979416004714189,0.00,0.00,0.00,iterative
+100,long_long,64,OVERFLOW -2437933049959450366,0.00,0.00,0.00,iterative
+10,long_long,64,34,0.00,0.00,0.00,recursive
+20,long_long,64,4181,0.00,0.00,0.00,recursive
+30,long_long,64,514229,0.00,0.00,0.00,recursive
+40,long_long,64,63245986,0.40,0.38,0.00,recursive
+10,intmax_t,64,34,0.00,0.00,0.00,iterative
+20,intmax_t,64,4181,0.00,0.00,0.00,iterative
+30,intmax_t,64,514229,0.00,0.00,0.00,iterative
+40,intmax_t,64,63245986,0.00,0.00,0.00,iterative
+50,intmax_t,64,7778742049,0.00,0.00,0.00,iterative
+60,intmax_t,64,956722026041,0.00,0.00,0.00,iterative
+70,intmax_t,64,117669030460994,0.00,0.00,0.00,iterative
+80,intmax_t,64,14472334024676221,0.00,0.00,0.00,iterative
+90,intmax_t,64,1779979416004714189,0.00,0.00,0.00,iterative
+100,intmax_t,64,OVERFLOW -2437933049959450366,0.00,0.00,0.00,iterative
+10,intmax_t,64,34,0.00,0.00,0.00,recursive
+20,intmax_t,64,4181,0.00,0.00,0.00,recursive
+30,intmax_t,64,514229,0.00,0.00,0.00,recursive
+40,intmax_t,64,63245986,0.38,0.37,0.00,recursive
